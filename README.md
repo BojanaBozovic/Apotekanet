@@ -5,5 +5,5 @@ Testing three functionalitis:
 3. Validation of the bill calculation;
 - Preconditions: Open system Windows, Browser Google Chrome;
 - Software IntelliJ, import project from https://github.com/qarevealed/javaselenium
-- In the package tests is GalenPOMTest;
+- In the package tests import GalenPOMTest;
 - In the package pages- import GalenArticalPage, GalenArticlesPage, GalenBasketPage, GalenBonesPage, GalenCosmeticArticlesPage, GalenHome2Page, GalenHomePage;
